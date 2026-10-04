@@ -1,0 +1,2 @@
+# premium-anchor-bolt-001-anchor-bolt-forging-embed-ho
+Tired of losing track of your custom anchor bolt specs amid forging sketches, embed hook dimensions, and client revisions? Turn chaos into a streamlined forge-to-embed pipeline with a dedicated hub built for metal crafters.  This Notion template eliminates the guesswork of managing multiple anchor bolt projects by centralizing every forging detail,
